@@ -204,7 +204,7 @@ Utilizado para organizar sprints e tarefas.
 
 ### 💻 GitHub
 Repositório principal:  
-[https://github.com/Kaua676/govix](https://github.com/J-A-Digix)
+[https://github.com/J-A-Digix](https://github.com/J-A-Digix)
 
 ---
 
