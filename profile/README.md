@@ -1,10 +1,10 @@
-# Nutrix
+# NutriVision
 
 Analista de Cardápios Escolares
 
 ## 📌 Descrição
 
-O Nutrix é uma plataforma completa para análise nutricional de cardápios escolares. A solução é dividida em três módulos principais: API de formatação de cardápios, base de dados nutricional e interface web interativa.
+O NutriVision é uma plataforma completa para análise nutricional de cardápios escolares. A solução é dividida em três módulos principais: API de formatação de cardápios, base de dados nutricional e interface web interativa.
 
 - A API em Flask recebe arquivos de cardápios e os transforma em um formato padronizado, consultando um banco SQLite para mapear ingredientes e receitas.
 - A base de dados fornece valores de macro e micronutrientes de ingredientes utilizados nas análises.
@@ -210,4 +210,4 @@ Repositório principal:
 
 ## 🙋‍♂️ Autor
 
-Mantido pelos times da organização Nutrix.
+Mantido pelos times da organização NutriVision.
